@@ -5,6 +5,7 @@ Using [Open Meteo](https://open-meteo.com/).
 
 Maybe after making this, I might try to remake it with a rust framework.
 
+<hr />
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
